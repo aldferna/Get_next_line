@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: adrianafernandez <adrianafernandez@stud    +#+  +:+       +#+        */
+/*   By: aldferna <aldferna@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/14 16:34:34 by aldferna          #+#    #+#             */
-/*   Updated: 2024/10/19 15:10:39 by adrianafern      ###   ########.fr       */
+/*   Updated: 2024/10/19 19:22:35 by aldferna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
